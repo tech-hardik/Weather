@@ -1,5 +1,5 @@
 # Weather
-A Weather App created using Core Location, SwiftUI, OpenWeather API, Figma, and MVVM Design Pattern!
+A Weather App created using Core Location, SwiftUI, OpenWeatherMap API, Figma, and MVVM Design Pattern!
 
 # Main View
 ![94C3BEC5-C128-464F-B6DD-A80B3EABE019](https://github.com/tech-hardik/Weather/assets/138746923/f8e60c94-5b25-4cd4-9488-c0315dd26fc9)
